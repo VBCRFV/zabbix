@@ -5,3 +5,4 @@
 ```
 chmod +x /usr/lib/zabbix/externalscripts/get_branch.py
 ```
+![](./readme/Элемент данных.png)
